@@ -1,3 +1,3 @@
 print("esse é o script 1 do projeto")
 
-print("agora sim")
+print("agora")
